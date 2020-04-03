@@ -191,7 +191,7 @@ docker-compose run web yarn add bulma
 
 Next, create a new file, `./app/javascript/packs/application.scss`, and add the following code:
 
-```sass
+```javascript
 @import '~bulma/bulma';
 ```
 
