@@ -4,7 +4,7 @@ This project contains all you need to start developing web apps with Rails 6 usi
 
 We'll use docker to run our code, webpack server, and database, so this development environment can be used in any OS environment. If you mess up or something goes wrong, feel free to delete your containers and try again - that's what they're there for.
 
-If you want to use [Nuxt][https://nuxtjs.org] for your front end instead of Rails, see [my other boilerplate repo](https://github.com/zacharyw/nuxt-rails-docker-boilerplate).
+If you want to use [Nuxt](https://nuxtjs.org) for your front end instead of Rails, see [my other boilerplate repo](https://github.com/zacharyw/nuxt-rails-docker-boilerplate).
 
 ## Prerequisites
 
